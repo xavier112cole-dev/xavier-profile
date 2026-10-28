@@ -1,16 +1,13 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Xavier Cole
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+My name is Xavier Cole I am a freshman at UTSA, a cybersecurity major, I have a part time job in my hometown, and I enjoy working out. 
 ## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+I have lots of skills within python programming, scratch, psuedo code, and lots of debugging.
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
+I have interests in working out, video games, rebuilding computers, and the stock market.
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+https://github.com/xavier112cole-dev  
+www.linkedin.com/in/xavier-cole-2b7586447 
 
-_"Your sample quote here!"_
+
+Always strive for the stars
